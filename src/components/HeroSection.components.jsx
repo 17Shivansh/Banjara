@@ -4,7 +4,7 @@ import { Button, Container } from 'react-bootstrap'
 import "../components/CSS/HeroSection.css"
 
 const HeroSection = () => {
-    const videoSource = "https://firebasestorage.googleapis.com/v0/b/safarnama-c075f.appspot.com/o/Assets%2FtravelVideo.mp4?alt=media&token=253087a6-9e38-4acb-ba81-74617f958810";
+    const videoSource = "https://firebasestorage.googleapis.com/v0/b/Safarnama-c075f.appspot.com/o/Assets%2FtravelVideo.mp4?alt=media&token=253087a6-9e38-4acb-ba81-74617f958810";
 
     const navigate = useNavigate();
 

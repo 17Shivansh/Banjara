@@ -38,7 +38,7 @@ const Write = () => {
             <div className='image-section'>
                 <img 
                     ref={imageRef} 
-                    src="https://firebasestorage.googleapis.com/v0/b/safarnama-c075f.appspot.com/o/Assets%2Fwrite-blog.png?alt=media&token=cdec59ce-478a-4cf1-bbff-5d8391e4f85b" 
+                    src="https://firebasestorage.googleapis.com/v0/b/Safarnama-c075f.appspot.com/o/Assets%2Fwrite-blog.png?alt=media&token=cdec59ce-478a-4cf1-bbff-5d8391e4f85b" 
                     alt="Write Blog Illustration" 
                     className='write-blog-image' 
                 />

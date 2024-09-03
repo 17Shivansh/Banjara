@@ -10,7 +10,7 @@ const Footer = () => {
             <Container>
                 <Row className="text-center">
                     <Col md={4}>
-                        <h5>Safarnama</h5>
+                        <h5>Banjara</h5>
                         <p>Your ultimate travel companion.</p>
                     </Col>
                     <Col md={4}>
@@ -26,7 +26,7 @@ const Footer = () => {
                     <Col md={4}>
                         <h5>Follow Us</h5>
                         <div>
-                            <a href="https://github.com/Suryakant01/Safarnama" style={{ color: 'white', marginRight: '15px' }}><FaGithub size={30} /></a>
+                            <a href="https://github.com/Suryakant01/Banjara" style={{ color: 'white', marginRight: '15px' }}><FaGithub size={30} /></a>
                             <a href="https://x.com/beingashivansh" style={{ color: 'white', marginRight: '15px' }}><FaTwitter size={30} /></a>
                             <a href="https://www.linkedin.com/in/shivansh-srivastava-772a00275/" style={{ color: 'white' }}><FaLinkedin size={30} /></a>
                         </div>
@@ -34,7 +34,7 @@ const Footer = () => {
                 </Row>
                 <Row className="text-center mt-3">
                     <Col>
-                        <p>&copy; {new Date().getFullYear()} Safarnama. All Rights Reserved.</p>
+                        <p>&copy; {new Date().getFullYear()} Banjara. All Rights Reserved.</p>
                     </Col>
                 </Row>
             </Container>

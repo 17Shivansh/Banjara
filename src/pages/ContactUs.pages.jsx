@@ -65,7 +65,7 @@ const ContactUs = () => {
             <Row>
                 <Col md={6} className="contact-person">
                     <div className="contact-card">
-                        <img src="https://firebasestorage.googleapis.com/v0/b/safarnama-c075f.appspot.com/o/Assets%2F6b1ea5b6-806c-4613-a751-26008c1ec62c.jpeg?alt=media&token=409b86e0-bd99-4bde-80c3-09b1ce5d9ec3" alt="Person 1" className="contact-photo" />
+                        <img src="https://firebasestorage.googleapis.com/v0/b/Safarnama-c075f.appspot.com/o/Assets%2F6b1ea5b6-806c-4613-a751-26008c1ec62c.jpeg?alt=media&token=409b86e0-bd99-4bde-80c3-09b1ce5d9ec3" alt="Person 1" className="contact-photo" />
                         <div className="contact-details">
                             <h4>Shivansh Srivastava</h4>
                             <div className="social-icons">

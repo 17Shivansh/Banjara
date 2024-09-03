@@ -22,9 +22,9 @@ const FirebaseContext = createContext(null);
 
 const firebaseConfig = {
     apiKey: process.env.REACT_APP_FIREBASE_API_KEY,
-    authDomain: "safarnama-c075f.firebaseapp.com",
-    projectId: "safarnama-c075f",
-    storageBucket: "safarnama-c075f.appspot.com",
+    authDomain: "Safarnama-c075f.firebaseapp.com",
+    projectId: "Safarnama-c075f",
+    storageBucket: "Safarnama-c075f.appspot.com",
     messagingSenderId: "813604453737",
     appId: "1:813604453737:web:1feb3dc008d28e52c0d1f8",
     measurementId: "G-Y27FSW4K5D"

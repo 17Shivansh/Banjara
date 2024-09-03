@@ -44,7 +44,7 @@ const DestinationPage = () => {
         }
     };
 
-    const bgImg = "https://firebasestorage.googleapis.com/v0/b/Safarnama-c075f.appspot.com/o/Assets%2F79011dcca5aaa78c13b0e0c9245e0aa0%201.png?alt=media&token=90e817e9-a05f-46d8-8816-5cc44d2f3334";
+    const bgImg = "https://firebasestorage.googleapis.com/v0/b/safarnama-c075f.appspot.com/o/Assets%2F79011dcca5aaa78c13b0e0c9245e0aa0%201.png?alt=media&token=90e817e9-a05f-46d8-8816-5cc44d2f3334";
 
     const heroStyle = {
         background: `url(${bgImg}) no-repeat center center/cover`,

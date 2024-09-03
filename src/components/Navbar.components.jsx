@@ -31,7 +31,7 @@ const MyNavbar = () => {
                         src={brandImage}
                         height="30"
                         className="d-inline-block align-top my-100px"
-                        alt="Banjara"
+                        alt="safarnama"
                         whileHover={{ scale: 1.2, rotate: 360 }}
                         whileTap={{
                             scale: 0.8,
